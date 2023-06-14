@@ -1,0 +1,29 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "[javascript, jsx, js, json, yml]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.words": [
+    "attrack",
+    "AUTOINCREMENT",
+    "Btns",
+    "chartjs",
+    "datalabels",
+    "foreignkey",
+    "formik",
+    "freekick",
+    "hocs",
+    "Kfreekick",
+    "Noto",
+    "papaparse",
+    "Swiper",
+    "toastify",
+    "uuidv"
+  ]
+}
